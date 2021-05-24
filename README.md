@@ -4,7 +4,7 @@ Microsoft: DAT256x (EdX course)
 
 ## All the math you might need for machine learning [list of resources] (feel free to add and comment via PR)
 
-1. https://mml-book.github.io/ Well, this is literally almost all the math necessary for machine learning. Covering everything in great detail requires more than ~400 pages, but overall this is the most detailed guide on the mathematics used in machine learning.
+1. https://mml-book.github.io/ Well, this is literally almost all the math necessary for machine learning. Covering everything in great detail requires more than ~400 pages, but overall this is the most detailed guide on the mathematics used in machine learning. The book is freely available [here](https://mml-book.github.io/book/mml-book.pdf).
 
 2. http://cs229.stanford.edu/section/cs229-linalg.pdf http://cs229.stanford.edu/section/cs229-prob.pdf These concise guides belong to the famous CS229 course by Andrew Ng and are very helpful for refreshing one's knowledge of linear algebra and probability theory. Don't expect it to be comprehensive. Expectedly, the primary purpose of the notes is to serve as a brief refresher that you can use to find out which subjects you should revisit.
 
